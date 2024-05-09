@@ -13,24 +13,24 @@
 // Create a video element
 let video = document.createElement("video");
 
-// Set video attributes
-video.src = "video/1042693846-preview.mp4";
-video.autoplay = true;
-video.loop = true;
-video.muted = true; // Mute the video to avoid unwanted sound
-video.controls = false; // Disable video controls
+// // Set video attributes
+// video.src = "video/1042693846-preview.mp4";
+// video.autoplay = true;
+// video.loop = true;
+// video.muted = true; // Mute the video to avoid unwanted sound
+// video.controls = false; // Disable video controls
 
-// Style the video element
-video.style.position = "fixed";
-video.style.top = "0";
-video.style.left = "0";
-video.style.width = "100%";
-video.style.height = "100%";
-video.style.objectFit = "cover";
-video.style.zIndex = "-1"; // Set z-index to ensure it's behind other content
+// // Style the video element
+// video.style.position = "fixed";
+// video.style.top = "0";
+// video.style.left = "0";
+// video.style.width = "100%";
+// video.style.height = "100%";
+// video.style.objectFit = "cover";
+// video.style.zIndex = "-1"; // Set z-index to ensure it's behind other content
 
-// Append the video element to the body
-document.body.appendChild(video);
+// // Append the video element to the body
+// document.body.appendChild(video);
 
 // Container for the entire application styling to transparent
 // let container = document.getElementById("tra");
