@@ -27,7 +27,7 @@ body {
   height: 100vh;
 
   /* This sets the background of the body element to a linear gradient. The gradient starts with the color #323541 at the top and transitions to the color #531515 at the bottom. The 50% specifies the point at which the transition occurs, meaning the transition from the first color to the second color happens at the halfway point vertically, creating a smooth gradient effect from top to bottom. */
-  background: linear-gradient(#323541 50%, #531515 50%);
+ background: linear-gradient(#5372f0 50%, #000000 50%);
 }
 
 /* this block of code creates a full-page layout where the background of the body element consists of a linear gradient that transitions from a dark grayish color at the top to a dark red color at the bottom. The height of the body element is set to occupy the full height of the viewport. */
