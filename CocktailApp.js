@@ -1,8 +1,8 @@
 // // Get reference to the body element
 // let body = document.body;
 
-// // Set background image using inline CSS style
-// body.style.backgroundImage = "url('image/cocktail.jpg')";
+// Set background image using inline CSS style
+body.style.backgroundImage = "url('image/cocktail.jpg')";
 
 // // Set background image using inline CSS style
 // body.style.backgroundImage = "url('image/cocktail.jpg')";
