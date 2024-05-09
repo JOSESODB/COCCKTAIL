@@ -32,6 +32,15 @@ body {
 
 /* this block of code creates a full-page layout where the background of the body element consists of a linear gradient that transitions from a dark grayish color at the top to a dark red color at the bottom. The height of the body element is set to occupy the full height of the viewport. */
 
+/* CSS for larger screens */
+@media only screen and (min-width: 768px) {
+    /* Add styles for larger screens here */
+}
+
+/* CSS for smaller screens (e.g., mobile devices) */
+@media only screen and (max-width: 767px) {
+    /* Add styles for smaller screens here */
+}
 
 
 
