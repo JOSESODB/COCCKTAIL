@@ -13,15 +13,6 @@
 }
 /*1. In summary, this block of code ensures a consistent starting point for CSS styles by resetting or normalizing default browser styles, setting a specific font, and adjusting box sizing to include padding and border in element dimensions. */
 
-.bg-video {
-    position: fixed; /* Fixed positioning to keep it in the background */
-    top: 0;
-    left: 0;
-    width: 100%; /* Make it cover the entire width of the viewport */
-    height: 100%; /* Make it cover the entire height of the viewport */
-    z-index: -1; /* Ensure it stays behind other content */
-    overflow: hidden; /* Hide any overflowing video content */
-}
 
 
 
