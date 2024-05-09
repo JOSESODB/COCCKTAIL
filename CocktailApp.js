@@ -11,7 +11,7 @@
 // // body.style.backgroundPosition = "center";
 
 // Create a video element
-let video = document.createElement("video");
+// let video = document.createElement("video");
 
 // // Set video attributes
 // video.src = "video/1042693846-preview.mp4";
