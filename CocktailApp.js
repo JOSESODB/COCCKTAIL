@@ -33,7 +33,7 @@ video.style.zIndex = "-1"; // Set z-index to ensure it's behind other content
 document.body.appendChild(video);
 
 // Container for the entire application styling to transparent
-// let container = document.getElementById("transparent");
+let container = document.getElementById("body");
 // container.style.backgroundColor = "transparent";
 
 
